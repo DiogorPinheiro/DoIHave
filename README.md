@@ -21,4 +21,4 @@ This app allows you to:
 ![](doIhave/screenshot/4.png)
 
 DoIHave is a work in progress, the database still has a couple flaws and it is still a desktop app. Hopefully in the future
-there will be a DoIHave mobile application, which way more useful for users.
+there will be a DoIHave mobile application.
