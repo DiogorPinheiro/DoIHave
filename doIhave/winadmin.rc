@@ -1,0 +1,28 @@
+#include <windows.h>
+ 
+ID_ICON    ICON    DISCARDABLE    "dIh.ico"
+
+    1 VERSIONINFO
+    FILEVERSION             1,0,1,0
+    PRODUCTVERSION          1,0,1,0
+    BEGIN
+        BLOCK "StringFileInfo"
+        BEGIN
+            BLOCK "040904E4"
+            BEGIN
+                VALUE "CompanyName",      "Diogo Pinheiro\0"
+                VALUE "FileDescription",  "Item Organization App.\0"
+                VALUE "FileVersion",      "1.0.1\0"
+                VALUE "LegalCopyright",   "Copyright 2016 Diogo Pinheiro\0"
+                VALUE "ProductName",      "doIhave\0"
+                VALUE "ProductVersion",   "1.0.1\0"
+            END
+        END
+        BLOCK "VarFileInfo"
+        BEGIN
+            VALUE "Translation", 0x409, 1252
+        END
+    END
+
+
+

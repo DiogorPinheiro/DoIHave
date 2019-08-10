@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Imagens/add.png</file>
+        <file>Imagens/add_user.png</file>
+        <file>Imagens/apply.png</file>
+        <file>Imagens/back.png</file>
+        <file>Imagens/bookmark.png</file>
+        <file>Imagens/button_ok.png</file>
+        <file>Imagens/delete_user.png</file>
+        <file>Imagens/dialog_close.png</file>
+        <file>Imagens/document_new.png</file>
+        <file>Imagens/document_print.png</file>
+        <file>Imagens/document_save.png</file>
+        <file>Imagens/draw_text.png</file>
+        <file>Imagens/edit_find_next.png</file>
+        <file>Imagens/edit_find_previous.png</file>
+        <file>Imagens/edit_redo.png</file>
+        <file>Imagens/edit_undo.png</file>
+        <file>Imagens/zoom_out.png</file>
+        <file>Imagens/folder_blue.png</file>
+        <file>Imagens/go_next_rtl.png</file>
+        <file>Imagens/go_previous_rtl.png</file>
+        <file>Imagens/gohome.png</file>
+        <file>Imagens/help_about.png</file>
+        <file>Imagens/help_contents.png</file>
+        <file>Imagens/rss_tag.png</file>
+        <file>Imagens/zoom_in.png</file>
+        <file>Imagens/document_preview_archive.png</file>
+        <file>Imagens/forward.png</file>
+        <file>Imagens/doIhave_Splash.png</file>
+        <file>Imagens/doIhave_Logo.png</file>
+        <file>Imagens/doIhave_Credits.png</file>
+        <file>dIh.ico</file>
+        <file>Manual do Utilizador.pdf</file>
+    </qresource>
+</RCC>
